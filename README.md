@@ -64,3 +64,9 @@ Overall Totals & Averages:
  - Average BTC forwarded per month: 48.140611
  - Overall average PPM: 1230
 ```
+
+## Charts
+
+<img width="600" height="248" alt="daily_forwarded_btc" src="https://github.com/user-attachments/assets/737bc959-d847-4c77-8406-f5452d3a9f8a" />
+<img width="600" height="248" alt="daily_fees_sats" src="https://github.com/user-attachments/assets/20fb3c2a-f8c7-4858-961b-929fff8da121" />
+
