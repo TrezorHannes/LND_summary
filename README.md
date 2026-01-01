@@ -27,7 +27,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## Example useage
+## Example usage
 
 ```
 python3 lnd_summary.py --start 2025-01-01 --end 2025-12-31 --output-dir stats_2025
